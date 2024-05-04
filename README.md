@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suigeneris20
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to scrape websites for specific information
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : ariftodote@gmail.com
 
